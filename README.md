@@ -59,14 +59,14 @@ Complete the following methods in `Unit8.java`:
    Ensures the method generates a 2D array of the specified size filled with random integers between the specified range.
 
 ## Getting Started
-1. Clone the repository containing the Unit 8 project.
-2. Open the project in your preferred IDE (such as IntelliJ IDEA or Eclipse).
+1. Open the github classroom assignment.
+2. Open the project in your preferred IDE (CodeSpaces or VS Code).
 3. Navigate to `Unit8.java` and implement the required methods.
 4. Run the JUnit tests in `Unit8Test.java` to verify your implementations.
 5. Ensure all tests pass before submitting your code.
 
 ## Submission
-Submit your completed `Unit8.java` file through the course's designated submission platform by the due date. Ensure that all tests pass and your code adheres to the style guidelines provided in class.
+Submit your completed `Unit8.java` file through GitHub Classroom by the due date. Ensure that all tests pass and your code adheres to the style guidelines provided in class.
 
 ## Resources
 - [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)
@@ -74,10 +74,11 @@ Submit your completed `Unit8.java` file through the course's designated submissi
 - [Java 2D Array Tutorial](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 ## Support
-If you encounter any issues or have questions about the assignment, please reach out during office hours or post in the course discussion forum.
-
-For additional assistance, contact: **Kevin** at [kevin@csplusplus.com](mailto:kevin@csplusplus.com).
+If you encounter any issues or have questions about the assignment, please reach out during tutoring.
 
 ---
 
-**Unit 8 - Working with 2D Arrays in Java** is part of the AP Computer Science A course, designed to build proficiency in handling complex data structures and grid-based problems.
+**Unit 8 - Understanding Arrays in Java** is part of the AP Computer Science A course, aimed at building a strong foundation in data structures and array manipulation.
+
+## Credit
+This repo template was modified from [CS-Plus-Plus] (https://github.com/cs-plus-plus)
